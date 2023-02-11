@@ -38,4 +38,4 @@ pip3 install TyroBot
 
 This is not an official rubika product. It is not affiliated with nor endorsed by rubika Inc.
 
-© 2022 Mohammad Saeed Salari
+© 2023 Mohammad Saeed Salari
